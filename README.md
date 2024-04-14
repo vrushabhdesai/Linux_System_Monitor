@@ -1,7 +1,8 @@
-# CppND-System-Monitor
+# Linux-System-Monitor
 
-This is the System Monitor Project of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). Major concepts used in project are related to C++ Object Oriented Programming.
+This is the System Monitor, specially designed for linux system. Major concepts used in project are related to C++ Object Oriented Programming.
 
+Refer the following image what it looks like.
 ![System Monitor](images/monitor.png)
 
 ## Dependencies
@@ -23,4 +24,4 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 2. Build the project: `make build`
 
-3. Run the resulting executable: `./build/monitor`
+4. Run the resulting executable: `./build/monitor`
